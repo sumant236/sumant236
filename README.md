@@ -2,23 +2,21 @@
 ### Front-End Software Developer focused on JavaScript and User Experience. Interested in application architecture, design and UI/UX.
 ##### Learning Full Stack Development at [Masai School](masaischool.com) :sunglasses:
 ### **Skilled in:**
-  ![image](https://user-images.githubusercontent.com/53209266/147144923-4c73206f-e80e-489d-9b88-31384d274197.png) ![image](https://user-images.githubusercontent.com/53209266/147144979-48a15af2-4f89-488b-9b0d-6a5e882f70b1.png) 
-![image](https://user-images.githubusercontent.com/53209266/147144993-da0f08af-8edd-43a6-9a56-71d4d966aa9e.png) 
-![image](https://user-images.githubusercontent.com/53209266/147145011-2c78e91c-3381-4ff3-92df-74bfe9b5aa78.png)
+[![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 ### **Some of my GitHub Stats:**
 
 
-<a href="https://github.com/sumant236/github-readme-stats">
+<a href="#">
   <img class="left" align="center" src="https://github-readme-stats.vercel.app/api?username=sumant236&show_icons=true&theme=radical" />
-</a>
+</a> &nbsp
 
-<a  href="https://github.com/sumant236/convoychat">
+<a  href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant236&show_icons=true&theme=radical" />
-</a>
+</a> &nbsp
 
-<a href="https://github.com/sumant236/convoychat">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sumant236&theme=rogue" />
+<a href="#">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sumant236&theme=rogue" height="400" />
 </a>
 
 ### **Interests**
@@ -27,8 +25,7 @@
 - Exploring 🌏:
 - traveling ✈️:
 
-### **Also find me on**
-![image](https://user-images.githubusercontent.com/53209266/147153282-21a2bafb-f42a-4099-a21d-bc1096855172.png)
+### **Also find me on**[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-singh-619851192/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">sumantsingh236@gmail.com]
 
 
 <!--
