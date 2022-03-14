@@ -1,5 +1,5 @@
 # Hi there , I'm Sumant Singh 👋
-### Front-End Software Developer focused on JavaScript and User Experience. Interested in application architecture, design and UI/UX.
+### Full Stack Developer focused on JavaScript, React, MongoDb and SQL. Interested in application architecture, design and UI/UX.
 ##### Learning Full Stack Development at [Masai School](masaischool.com) :sunglasses:
 ### **Skilled in:**
 [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
