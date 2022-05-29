@@ -13,7 +13,7 @@
 </a> &nbsp
 
 <a  href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant236&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant236&layout=compact" />
 </a> &nbsp
 
 <a href="#">
