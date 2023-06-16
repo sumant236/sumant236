@@ -26,7 +26,9 @@
 - Exploring 🌏:
 - traveling ✈️:
 
-### **Also find me on**[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-singh-619851192/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">sumantsingh236@gmail.com]
+### **Also find me on** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-singh-619851192/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_s_phogat)
+
+### **Also Connect with me on** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sumant.singh.236@gmail.com) [👨 Resume](https://drive.google.com/file/d/1vlbcLJm2mJm3bxsEcFaAoJtMZmcUuPG6/view?usp=sharing)
 
 
 <!--
