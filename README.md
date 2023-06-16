@@ -2,7 +2,7 @@
 ### Full Stack Developer focused on JavaScript, React and MongoDb. Interested in application architecture, design and UI/UX. 
 #### Love to collaborate for projects on React.js, React Native and Nodejs. Happy to learn 😎!!
 ### **Skilled in:**
-[![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) &nbsp; [![MongoDb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) &nbsp; [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) &nbsp; [![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)  &nbsp; [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#) 
 
 ### **Some of my GitHub Stats:**
 
