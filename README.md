@@ -19,7 +19,7 @@
 
 ### **Also find me on** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-singh-619851192/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_s_phogat)
 
-### **Also Connect with me on** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumantsingh236@gmail.com) [👨 Resume](https://drive.google.com/file/d/1mUegE7MZtG-5E5D3J0mvFSqdEYLnGFs0/view?usp=drive_link)
+### **Also Connect with me on** [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumantsingh236@gmail.com) [👨 Resume](https://drive.google.com/file/d/19fUcbB2qvvmz5zDN3XNZwlTPHlCMC1LA/view?usp=sharing)
 
 
 <!--
