@@ -56,7 +56,7 @@ Contributed to a collaborative project to build a functional **E-commerce replic
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumantsingh236@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_s_phogat)
 
-[📄 **Download My Resume**](https://drive.google.com/file/d/19fUcbB2qvvmz5zDN3XNZwlTPHlCMC1LA/view?usp=sharing)
+[📄 **Download My Resume**](https://drive.google.com/file/d/16XPBJkKaf6dUisDXzr4LdRRR8MqnqyXb/view?usp=drive_link)
 
 ---
 
