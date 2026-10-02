@@ -60,7 +60,7 @@ Worked on the full-stack development of **Chatterbox**, a real-time chat applica
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumantphogat@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_s_phogat)
 
-[📄 **Download My Resume**](https://drive.google.com/file/d/1v4Vp7xb-40CEbzBgkFee5iN3GkBgMSy-/view?usp=sharing)
+[📄 **Download My Resume**](https://drive.google.com/file/d/1lVyeS9bjWNi2nsOTkD240adHnk_EW2FV/view?usp=sharing)
 
 ---
 
